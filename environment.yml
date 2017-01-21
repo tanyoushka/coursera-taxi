@@ -1,4 +1,4 @@
-name: C:\Anaconda2
+name: conda_env
 channels: !!python/tuple
 - !!python/unicode
   'defaults'
@@ -196,5 +196,4 @@ dependencies:
   - ruamel-yaml-==VERSION
   - tables==3.2.2
   - win-unicode-console==0.5
-prefix: C:\Anaconda2
 
