@@ -21,9 +21,6 @@ dependencies:
 - cloudpickle=0.2.1=py27_0
 - clyent=1.2.2=py27_0
 - colorama=0.3.7=py27_0
-- conda=4.2.13=py27_0
-- conda-build=2.0.2=py27_0
-- conda-env=2.6.0=0
 - configobj=5.0.6=py27_0
 - configparser=3.5.0=py27_0
 - contextlib2=0.5.3=py27_0
@@ -76,8 +73,6 @@ dependencies:
 - mistune=0.7.3=py27_0
 - mpmath=0.19=py27_1
 - multipledispatch=0.4.8=py27_0
-- nb_conda=2.0.0=py27_0
-- nb_conda_kernels=2.0.0=py27_0
 - nbconvert=4.2.0=py27_0
 - nbformat=4.1.0=py27_0
 - nbpresent=3.0.2=py27_0
@@ -158,11 +153,7 @@ dependencies:
   - jupyter-client==4.4.0
   - jupyter-console==5.0.0
   - jupyter-core==4.2.0
-  - nb-anacondacloud==1.2.0
-  - nb-conda==2.0.0
-  - nb-conda-kernels==2.0.0
   - prompt-toolkit==1.0.3
   - ruamel-yaml-==VERSION
   - tables==3.2.2
-  - win-unicode-console==0.5
 
